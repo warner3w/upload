@@ -1,0 +1,5 @@
+E:\aVs2010\upload\upload\bin\upload.dll
+E:\aVs2010\upload\upload\bin\upload.pdb
+E:\aVs2010\upload\upload\obj\Debug\upload.dll
+E:\aVs2010\upload\upload\obj\Debug\upload.pdb
+E:\aVs2010\upload\upload\obj\Debug\upload.csprojResolveAssemblyReference.cache
